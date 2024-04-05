@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = garrit.czwielung@gmail.com
+	name = Garrit Czwielung
